@@ -1,5 +1,5 @@
-Programador
-Sobre mi
+Soy Programador
+
 Bienvenidos a mi pagina web Soy un estudiante de ingeniero de sistemas
 
 Habilidades
